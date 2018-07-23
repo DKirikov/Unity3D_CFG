@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: ea6bac3528506394c9b7ff820a63e425
+timeCreated: 1465073545
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - red_mat: {fileID: 2100000, guid: 62c3ef3270810ac458487dee74eaa862, type: 2}
+  - blue_mat: {fileID: 2100000, guid: a71fd870854e9034e98fa248b5e3df51, type: 2}
+  - properties: {fileID: 180260, guid: 7c0430d1ecbda4148bdc4022c525fa43, type: 2}
+  - bow_texture: {fileID: 21300000, guid: 6d6b462c979a971479b2488d8f836e1e, type: 3}
+  - hit_clip: {instanceID: 0}
+  - walk_clip: {instanceID: 0}
+  - die_clip: {instanceID: 0}
+  - idle_clip: {instanceID: 0}
+  - block_clip: {instanceID: 0}
+  - cell_to_run: {instanceID: 0}
+  - dude_to_kill: {instanceID: 0}
+  - cell_data: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

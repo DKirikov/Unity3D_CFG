@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: a8f083c26af6f7c40b27eca59ba0cb4e
+timeCreated: 1444571481
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - route_marker: {fileID: 136998, guid: 0e512e78db6f4294384a8802ab85f5e9, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

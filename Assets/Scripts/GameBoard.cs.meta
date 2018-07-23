@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dd2cb31fec35a6f43b0506b7451976f7
+timeCreated: 1444493342
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - cell_obj: {instanceID: 0}
+  - route_marker: {instanceID: 0}
+  - unit: {instanceID: 0}
+  - walk_cursor: {instanceID: 0}
+  - attack_cursor: {instanceID: 0}
+  - cell_mat: {instanceID: 0}
+  - cell_sel_mat: {instanceID: 0}
+  - cell_avail_mat: {instanceID: 0}
+  - red_mat: {instanceID: 0}
+  - blue_mat: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
