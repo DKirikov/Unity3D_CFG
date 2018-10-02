@@ -2,7 +2,7 @@
 
 Mono develop & Unity.
 
-CFG - Collectible Figures Game
+CFG - Collectible Figures Game.
 This is a game about battles between some collectible figures.
 All figures were take from Unity Store.
 
