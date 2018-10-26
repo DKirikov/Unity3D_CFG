@@ -3,7 +3,7 @@
 Mono develop & Unity.
 
 CFG - Collectible Figures Game.
-This is a game about battles between some collectible figures.
+This is a game about battles between collectible creature models.
 All figures were take from Unity Store.
 
 This game has an artificial intelligence, so you can fight against AI.
